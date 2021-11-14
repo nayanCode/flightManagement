@@ -1,0 +1,25 @@
+{
+    "StaffDetails": [
+      { "id": 1019101, "name": "rohan kumar","post":"security" },
+      { "id": 1019103, "name": "vishal sing","post":"Senior Staff Analyst for airlines" },
+      { "id": 1019109, "name": "harshawardhan rane","post":"Purchasing Manager for airlines" },
+      { "id": 1019118, "name": "aditya jadhav","post":"Aviation Planner" }
+    ],
+    "PassengerDetails": [
+        { "name": "sanjay kumar", "id":1019101,"seatno":"a23","flightNo":"BP2491A","passport":"sankum01.png"},
+        { "name": "rohit singh", "id":1019103,"seatno":"b21","flightNo":"BA2490","passport":"rohsin03.png"},
+        { "name": "abhimanyu singh", "id":1019104,"seatno":"a11","flightNo":"LV9434A","passport":"abhsin04.png"},
+        { "name": "arvind deshmukh", "id":1013453,"seatno":"v03","flightNo":"BP2491A","passport":""},
+        { "name": "kiara rohtak", "id":2345632,"seatno":"d11","flightNo":"BA2490","passport":""},
+        { "name": "shweta sharma", "id":2351209,"seatno":"e01","flightNo":"LV9434A","passport":""}
+       
+    ],
+    "FlightDetails":[
+      { "flightName": "Go Air","flightNo":"BA2490","passengerNo":150},
+
+      { "flightName": "Air India","flightNo":"BP2491A","passengerNo":200},
+
+      { "flightName": "Indigo","flightNo":"LV9434A","passengerNo":230}
+    ]
+   
+  }
