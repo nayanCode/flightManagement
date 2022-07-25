@@ -1,6 +1,7 @@
-##INTRODUCTION
+#INTRODUCTION
 
 A simple API based project.
+The data.json file contains data which is used to as API to fetch data int the front end.
 Created as a task for getting into a INTERNSHIP.
 
 # Getting Started with Create React App
